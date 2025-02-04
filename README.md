@@ -13,7 +13,9 @@ Activate the Project Virtual Environment.
 Install dependencies.
 Save & git-add-commit-push.
 
-
+## Task 3 - Create Notebook
+Create new notebook & select kernel
+Create title/ header/ imports; load data.
 
 
 ---
